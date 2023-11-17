@@ -2,6 +2,8 @@
 
 Nivek Chat Rooms is a simple chat application that utilizes Socket.io for real-time communication and Back4App for authorization.
 
+<img width="1510" alt="image" src="https://github.com/kevind13/Nivek-Chat-Rooms/assets/17632891/2a997786-7f09-43f1-b4e6-8699090970ff">
+
 ## Frontend
 
 ### Installation
